@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Martin Guggisberg -- content -- @mgje
+    Beat Trachsler -- content —-
+
+# THANKS
+
+    The man that invented currywurst and beer
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Reveal.js, MathJax, Latex, Github 
+
+- BOOM -
