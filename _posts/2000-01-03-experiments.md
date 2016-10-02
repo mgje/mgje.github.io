@@ -2,7 +2,7 @@
 title: "Experiments"
 bg: starrynight
 color: black
-fa-icon: group
+fa-icon: gears
 ---
 
 ## Interactive Materials
