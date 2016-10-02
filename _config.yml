@@ -27,11 +27,6 @@ google_analytics_key: UA-85060762-1 ## put YOUR key here to enable tracking! (bl
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
   sunflowers: '#FFCE00'
   starrynight: '#0375b4'
   irises: '#007849'
@@ -47,6 +42,11 @@ colors:
   field: '#837d4e'
   breeze: '#438496'
   azure: '#01abaa'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
 
 kramdown:
   auto_ids:  false
