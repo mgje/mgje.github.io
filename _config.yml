@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "HuVis"
-keywords:    "urban visualization, augmented reality, virtual reality"
+title:       "Martin Guggisberg"
+keywords:    "learn creative code, life coding, augmented reality, virtual reality"
 description: "Todo"
-source_link: "https://github.com/huvis"
+source_link: "https://github.com/mgje"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-84961635-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-85060762-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
