@@ -1,0 +1,53 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "HuVis"
+keywords:    "urban visualization, augmented reality, virtual reality"
+description: "Todo"
+source_link: "https://github.com/huvis"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-84961635-1 ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  sunflowers: '#FFCE00'
+  starrynight: '#0375b4'
+  irises: '#007849'
+  evening: '#262228'
+  ink: '#062f4f'
+  posy: '#813772'
+  embers: '#882601'
+  prussian: '#0b3c5d'
+  skyblue: '#328cc1'
+  ivory: '#1D2731'
+  summersky: '#286da8'
+  warmpeach: '#cd5360'
+  field: '#837d4e'
+  breeze: '#438496'
+  azure: '#01abaa'
+
+kramdown:
+  auto_ids:  false
+
