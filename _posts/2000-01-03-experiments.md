@@ -1,5 +1,5 @@
 ---
-title: "<br>Experiments"
+title: "Experiments"
 bg: starrynight
 color: black
 fa-icon: group
