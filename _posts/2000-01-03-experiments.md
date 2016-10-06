@@ -5,10 +5,10 @@ color: black
 fa-icon: gears
 ---
 
+### Open and Interactive Materials
+
 Open Science represents a new approach to the scientific process, based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools.
 
-
-## open and interactive materials
 
 - [Codieren / Decodieren von Texten und schwarz/weiss Bildern](Crypto/)
 - [Experimente mit trigonometrischen Funktionen und Fourierreihen](fourierseries/)
