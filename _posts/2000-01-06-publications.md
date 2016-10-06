@@ -1,6 +1,6 @@
 ---
 title: "publications"
-bg: embers
+bg: ivory
 color: white
 fa-icon: book
 ---
