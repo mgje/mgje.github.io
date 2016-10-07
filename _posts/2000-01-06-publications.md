@@ -5,8 +5,9 @@ color: white
 fa-icon: book
 ---
 
-- [Scholar Profil: Martin Guggisberg]
-(https://scholar.google.ch/citations?user=Icc4GVkAAAAJ&hl=de)
+### List of publications
+
+- [Scholar Research Profil: Martin Guggisberg](https://scholar.google.ch/citations?user=Icc4GVkAAAAJ&hl=de)
 
 - [ResearchGate: Martin Guggisberg](https://www.researchgate.net/profile/Martin_Guggisberg)
 
