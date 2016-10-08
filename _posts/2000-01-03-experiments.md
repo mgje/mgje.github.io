@@ -5,7 +5,7 @@ color: black
 fa-icon: gears
 ---
 
-### Open and Interactive Materials
+### Open and interactive
 
 Open Science represents a new approach to the scientific process, based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools.
 
