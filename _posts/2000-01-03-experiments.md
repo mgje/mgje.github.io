@@ -17,7 +17,7 @@ Open Science represents a new approach to the scientific process, based on coope
 - [Examples of dynamic systems](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
 
 <br>
-{: .left}
+
 #### Teaching Computer Science with interactive material
 - [Codieren / Decodieren von Texten und schwarz/weiss Bildern](Crypto/)
 - [Experimente mit trigonometrischen Funktionen und Fourierreihen](fourierseries/)
