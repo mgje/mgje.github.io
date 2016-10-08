@@ -5,13 +5,13 @@ color: white
 fa-icon: book
 ---
 
-### Researcher Profil
+#### Researcher Profil
 - [Scholar Research Profil: Martin Guggisberg](https://scholar.google.ch/citations?user=Icc4GVkAAAAJ&hl=de)
 - [ResearchGate: Martin Guggisberg](https://www.researchgate.net/profile/Martin_Guggisberg)
 
 <br>
 
-### A selection of publications
+#### A selection of publications
 
 - Burkhart, H., Guggisberg, M. (2016), Grenzgänge zwischen Fiktion und Wirklichkeit – Technologien für eine partizipative Raumplanung. Erscheint in: Andreas Meier und Edy Portmann (Hrsg.), Smart City – Strategie, Governance & Projekte, Springer International Publishing.
 - Guggisberg, M. (2016): Mathematisches Experimentieren mit „Jupyter notebook“ - Forschendes Lernen in der Sek II. Erscheint in: Beiträge zum Mathematikunterricht 2016, 50. Jahrestagung der Gesellschaft für Didaktik der Mathematik in Heidelberg.
