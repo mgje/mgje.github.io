@@ -70,7 +70,8 @@ hr {
 
 .container h1, .container h2, .container h3, .container h4 {
   margin-bottom: 20px;
-  text-align: center;
+  /*text-align: center;*/
+  text-align: left;
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
