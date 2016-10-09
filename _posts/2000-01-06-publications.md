@@ -5,7 +5,7 @@ color: white
 fa-icon: book
 ---
 
-#### Researcher Profil
+#### Researcher profil
 - [Scholar Research Profil: Martin Guggisberg](https://scholar.google.ch/citations?user=Icc4GVkAAAAJ&hl=de)
 - [ResearchGate: Martin Guggisberg](https://www.researchgate.net/profile/Martin_Guggisberg)
 
