@@ -1,12 +1,10 @@
 
 ---
-title: "talks"
+title: "Impressum"
 bg: white
 color: posy
 fa-icon: group
 ---
-
-## Impressum
                       
 Kontaktadresse
 Martin Guggisberg
