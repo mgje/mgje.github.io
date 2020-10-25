@@ -21,3 +21,5 @@ fa-icon: book
 - Guggisberg, M., Fornaro, P., Smith, A., Gyalog, T., Wattinger, C., & Burkhart, H. (2003). Collaborative nanoscience laboratory with integrated learning modules. CHIMIA International Journal for Chemistry, 57(3), 128-132.
 - Guggisberg, M., Fornaro, P., Gyalog, T., & Burkhart, H. (2003). An interdisciplinary virtual laboratory on nanoscience. Future Generation Computer Systems, 19(1), 133-141.
 - Guggisberg, M., Bammerlin, M., Loppacher, C., Pfeiffer, O., Abdurixit, A., Barwich, V., Bennewitz, R., Baratoff, A., Meyer, E. & Güntherodt, H. J. (2000). Separation of interactions by noncontact force microscopy. Physical Review B, 61(16), 11151.
+
+[show your interest for the complete list of publications](https://bkit.co/8ld6brzt)
